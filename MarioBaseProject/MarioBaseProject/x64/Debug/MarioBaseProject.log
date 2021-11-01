@@ -1,0 +1,34 @@
+﻿  Character.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\Character.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CharacterKoopa.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\Character.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CharacterLuigi.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\Character.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CharacterMario.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\Character.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Collisions.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\Character.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameScreen.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\GameScreen.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameScreenHighscore.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\GameScreen.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameScreenLevel1.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\GameScreen.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameScreenManager.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\GameScreenManager.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameScreenMenu.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\GameScreen.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  LevelMap.cpp
+  MarioBaseProject.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject.cpp(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PowBlock.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\PowBlock.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Score.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\Score.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SoundManager.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\SoundManager.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Text.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\Text.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Texture2D.cpp
+D:\Github Repos\MarioBaseProject\MarioBaseProject\MarioBaseProject\MarioBaseProject\Texture2D.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
